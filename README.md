@@ -1,1 +1,1 @@
-# K-Mode-Clustering-on-Bank-Marketing-Data
+# K-Mean-Clustering-on-Bank-Customer-Data
